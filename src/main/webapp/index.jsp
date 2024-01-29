@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='purple'> NISHUTA - Software Training Institute <font></h1>
+<h1><font color='purple'> NISHITA KATLAGUNTA - Software Training Institute <font></h1>
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
   
